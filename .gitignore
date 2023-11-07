@@ -159,10 +159,11 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 .gitignore
-html_advanced/favicon_stuff/android-chrome-192x192.png
-html_advanced/favicon_stuff/android-chrome-512x512.png
-html_advanced/favicon_stuff/apple-touch-icon.png
-html_advanced/favicon_stuff/browserconfig.xml
-html_advanced/favicon_stuff/mstile-150x150.png
-html_advanced/favicon_stuff/safari-pinned-tab.svg
-html_advanced/favicon_stuff/site.webmanifest
+html_advanced/android-chrome-192x192.png
+html_advanced/android-chrome-512x512.png
+.gitignore
+html_advanced/apple-touch-icon.png
+html_advanced/browserconfig.xml
+html_advanced/mstile-150x150.png
+html_advanced/safari-pinned-tab.svg
+html_advanced/site.webmanifest
