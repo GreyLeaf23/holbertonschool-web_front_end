@@ -158,3 +158,13 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+html_advanced/favicon-16x16.png
+html_advanced/favicon-32x32.png
+.gitignore
+html_advanced/favicon_stuff/android-chrome-192x192.png
+html_advanced/favicon_stuff/android-chrome-512x512.png
+html_advanced/favicon_stuff/apple-touch-icon.png
+html_advanced/favicon_stuff/browserconfig.xml
+html_advanced/favicon_stuff/mstile-150x150.png
+html_advanced/favicon_stuff/safari-pinned-tab.svg
+html_advanced/favicon_stuff/site.webmanifest
